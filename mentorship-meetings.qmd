@@ -36,7 +36,7 @@ On the first meeting, we recommend:
 
     - *For a new package project:* a first functional version of the package following the recommendation of the rOpenSci development guide. Improve functions, testing, documentation, repository, functionalities. Improve the developer guide (content, translations)
 
-    - *For a package sent to review:* prepare the package to sent to the review process, send the package to review and complete the process. Improve functions, testing, documentation, repository, functionalities, governance. Write a paper for JOSS about the package. Improve the review process (accessibility, languages, guidelines)
+    - *For a package sent to review:* prepare the package to sent to the review process, send the package to review and complete the process. Improve functions, testing, documentation, repository, functionalities, governance. Write a paper for JOSS or JOSE about the package. Improve the review process (accessibility, languages, guidelines)
 
     - *For become a reviewer:* select a package to review. Review a package. Improve the review process (accessibility, languages, guidelines)
 
