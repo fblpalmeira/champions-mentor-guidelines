@@ -23,14 +23,14 @@ Configuramos una serie de herramientas para ayudarte en tu mentoría.
 
 - **Plantillas:** Hemos creado plantillas para las reuniones con tu campeon/a
   Hay 3 plantillas diferentes: una para la primera reunión, otra para
-  la última reunión y otra para el resto de las reuniones. En el [documento de google de *plantillas](https://docs.google.com/document/d/1VtNYfDNYRS7xAbs1Ajf2S5wsv3mOQ0BcTn93cXAv6sc/)
+  la última reunión y otra para el resto de las reuniones. En el [*documento de google de plantillas*](https://docs.google.com/document/d/1VtNYfDNYRS7xAbs1Ajf2S5wsv3mOQ0BcTn93cXAv6sc/)
   
   podes econtrar estas sugerencias de agenda.  El documento se puede copiar, adaptar y modificar para su uso.
 
 - **Slack:** tenemos tres canales privados para tu comunicación con
-  las personas que participan de esta cohorte y con los participantes de las cohortes previas:
+  las personas que participan de esta cohorte y con los participantes de las cohortes previas.
   
-  - **\#mentors-2025**: sólo mentores/as en este canal. Puedes hacer
+  - **\#mentors-2025:** sólo mentores/as en este canal. Puedes hacer
     preguntas, compartir recursos, pedir consejo a tus compañeros/as. Yani está en este espacio para
     proporcionar apoyo y compartir información relevante.
   
@@ -38,13 +38,13 @@ Configuramos una serie de herramientas para ayudarte en tu mentoría.
     y Maëlle están en este canal para prestar apoyo y compartir
     información común.
   
-  - ** champions-program:** un canal con todos los participantes del programa. Yani
+  - **\#champions-program:** un canal con todos los participantes del programa. Yani
     y Maëlle están en este canal para ofrecer apoyo y compartir
     información común.
 
 ### Herramientas para las reuniones {#meeting-tools}
 
-Todas nuestras reuniones en línea utilizarán
+Todas nuestras reuniones en línea utilizarán:
 
 - Software de videoconferencia
 
@@ -80,32 +80,30 @@ de utilizar cualquier herramienta que acuerden. Aquí tienes una lista de servic
   llamadas de mentoría, puedes añadir una llamada haciendo clic en el botón
   'Añadir videoconferencia de Google Meet'.
 
-- [*Jitsi:*](http://meet.jit.si/) una alternativa de código abierto. Integra
+- [*Jitsi*](http://meet.jit.si/): una alternativa de código abierto. Integra
   con Google Calendar y Slack.
-
 
 - [*WhatsApp*](https://www.whatsapp.com/): funciona bien en zonas con menor 
   ancho de banda.
 
-- [*Telegrama*](https://telegram.org/): también es genial para zonas con un ancho de banda bajo.
+- [*Telegram*](https://telegram.org/): también es genial para zonas con un ancho de banda bajo.
   
-
-- [*Whereby*](https://whereby.com/) tiempo ilimitado para reuniones uno a uno.
+- [*Whereby*](https://whereby.com/): tiempo ilimitado para reuniones uno a uno.
 
 ### Notas colaborativas {#note-taking}
 
 Utilizaremos Google Docs o una solucion simil Etherpad (si es requedida por accesibilidad) para nuestras llamadas de Cohorte. Para tu mentoría 1:1
 puedes utilizar cualquier herramienta de notas colaborativas.
 
-- [Google Docs](https://docs.google.com/) Para utilizar Google Docs en tus reuniones de mentoría,
+- [Google Docs](https://docs.google.com/): para utilizar Google Docs en tus reuniones de mentoría,
   crea un documento en tu carpeta de Google Drive.
   Puedes hacer una copia de la plantilla que te proporcionamos.
 
-- [Hack.md:](https://hackmd.io/) Esta es una opción accesible y tienen
+- [Hack.md](https://hackmd.io/): esta es una opción accesible y tienen
   formato Markdown para el texto.
   Se puede integrar con GitHub.
 
-- [Formato Etherpad](https://pad.riseup.net/) esta es otra opción accesible con formato Markdown para el texto y no necesita una cuenta de usuario.
+- [Formato Etherpad](https://pad.riseup.net/): esta es otra opción accesible con formato Markdown para el texto y no necesita una cuenta de usuario.
   El inconveniente es que sólo está disponible durante un tiempo (puedes configurar cuántos días de una lista de opciones).
 
 ### Herramientas para organizar y agendar reuniones {#scheduling}
@@ -120,23 +118,23 @@ pero aquí tienes una lista de herramientas que pueden ayudarte en esta tarea (e
   ofrece una opción de encusta Tiene un límite de 40 lugares y es accesible para lectores de pantalla.
   lector de pantalla.
 
-- [*Doodle:*](https://doodle.com/) la versión gratuita muestra anuncios. Es
+- [*Doodle*](https://doodle.com/): la versión gratuita muestra anuncios. Es
   accesible para lectores de pantalla. Los anuncios son muy molestos para la navegación de la herramienta.
   Tú eliges qué día y a qué horas de esos dias estas disponible,
   y ofrece una tercera opción, que es "Tal vez" y que permite organizar con una mayor flexibilidad que cuando las opcopnes son "Si Puedo" y "No puedo".
   Es accesible para lectores de pantalla.
 
-- [*When2meet:*](https://www.when2meet.com/) es gratuito, te permite
+- [*When2meet*](https://www.when2meet.com/): es gratuito, te permite
   elegir un día y un intervalo de tiempo y crear un enlace para llenar la reserva.
   Puedes decir sí o no. No es accesible para lectores de pantalla.
 
 - Google Calendar: si tienes un plan de empresa, puedes ofrecer lugares libres en
   tu agenda para que la gente reserve reuniones contigo.
 
-- [*Hora y fecha*](http://timeanddate.com/): para comprobar los husos horarios
+- [*Time and date*](http://timeanddate.com/): para comprobar los husos horarios
   y calcular fechas y horas.
 
-- [*Compañero de la Hora Mundial*](https://www.worldtimebuddy.com): para comprobar los husos horarios
+- [*World Time Buddy*](https://www.worldtimebuddy.com): para comprobar los husos horarios
   y calcular fechas y horas.
 
 ### Código de conducta
@@ -151,15 +149,15 @@ enviar un correo electrónico a '[conduct@ropensci.org](mailto:conduct@ropensci.
 
 En la segunda parte del año, campeones/as planificarán y llevarán a cabo actividades de divulgación, de preferencia en sus comunidades locales, pero también en comunidades internacionales.
 
-Estas actividades pueden ser talleres, charlas, participación en eventos y conferencias, publicaciones en blogs o entrevistas.  Pueden organizarse con instituciones, comunidades, grupos de usuarios y organizaciones locales y regionales; de hecho, ¡es muy deseable que se organicen así!
+Estas actividades pueden ser talleres, charlas, participación en eventos y conferencias, publicaciones en blogs o entrevistas. Pueden organizarse con instituciones, comunidades, grupos de usuarios y organizaciones locales y regionales; de hecho, ¡es muy deseable que se organicen así!
 
 Por supuesto, estas actividades pueden estar dentro del abanico de posibilidades de contribución que ya tiene rOpenSci, como las "Conversaciones con la comunidad", las sesiones de co-working, los mini-hackatones, articulos en el blog de rOpenSci y las traducciones.
 
 Estos recursos pueden ayudarte a ver qué tipo de contribuciones y participaciones se pueden hacer en rOpenSci y con estas ideas planificar la actividad de difusión del programa:
 
-- [Hoja de consejos](https://ropensci.org/es/blog/2022/09/13/contributing-ropensci-es/) Esta hoja de consejos contiene un resumen de las distintas formas de contribuir y participar en rOpenSci.
+- [Hoja de consejos](https://ropensci.org/es/blog/2022/09/13/contributing-ropensci-es/): esta hoja de consejos contiene un resumen de las distintas formas de contribuir y participar en rOpenSci.
 
-- [Guía de contribución](https://contributing.ropensci.org/) tiene más detalles, enlaces, materiales y ejemplos de cada forma de participar en nuestra comunidad. (En ingles).
+- [Guía de contribución](https://contributing.ropensci.org/): tiene más detalles, enlaces, materiales y ejemplos de cada forma de participar en nuestra comunidad. (En ingles).
 
 - [Guía del blog](https://blogguide.ropensci.org/): este libro explica cómo escribir un blog post para el sitio web de rOpenSci (en Ingles).
 
